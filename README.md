@@ -4,6 +4,8 @@ In ***VulnPlanetDB*** you can search for CVE and next to the standard descriptio
 
 We are using AI-driven technology for the deepest analysis of Common Vulnerabilities and Exposures (CVE). Our model categorized all known CVEs by category, root case, and all common OWASP Top-10 ratings. Explore it!
 
+![vulndb](vulndb.png)
+
 Curious about Secure Coding? Find vulnerable code snippets with fixes in [VulnPlanet open source codebase](https://github.com/yevh/VulnPlanet)
 
 ***Donations***
