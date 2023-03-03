@@ -1,8 +1,8 @@
 ![logo](logo.svg)
 
-In ***VulnPlanetDB*** you can search for CVE and next to the standard description information get a similar root-cause vulnerable code example with a fix. This could help you understand the code root cause of the vulnerability much faster and perform research for new CVEs with limited descriptions.
+In ***[VulnPlanetDB](https://vulnplanet.com/)*** you can search for CVE and next to the standard description information get a similar root-cause vulnerable code example with a fix. This could help you understand the code root cause of the vulnerability much faster and perform research for new CVEs with limited descriptions.
 
-We are using AI-driven technology for the deepest analysis of Common Vulnerabilities and Exposures (CVE). Our model categorized all known CVEs by category, root case, and all common OWASP Top-10 ratings. Explore it!
+We are using AI-driven technology for the deepest analysis of Common Vulnerabilities and Exposures (CVE). Our model categorized all known CVEs by category, root case, and all common OWASP Top-10 ratings. Explore it at https://vulnplanet.com/
 
 ![vulndb](vulndb.png)
 
